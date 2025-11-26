@@ -58,6 +58,7 @@ public class Departement {
                 "id=" + id +
                 ", nom='" + nom + '\'' +
                 ", salaries=" + getSalaries() +
+                ", total des salaires=" + totalSalaires() +
                 '}';
     }
 }
